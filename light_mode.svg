@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="869" height="364" viewBox="0 0 869 364" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace">
+  <rect width="100%" height="100%" rx="10" fill="#ffffff"/>
+  <g font-size="10" fill="#24292f" xml:space="preserve">
+    <text x="20" y="30" xml:space="preserve">+++=+++++++========++++++==*===*.&#160;&#160;&#160;@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <text x="20" y="42" xml:space="preserve">=+++========*%@@@@@@@@@@@@*#===*&#160;&#160;&#160;@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <text x="20" y="54" xml:space="preserve">=++==+*%%%%@@@@@@@@@@@@@@@@@@@@@@+.&#160;&#160;:@@@@@@@@@@@@@@@@@@@@@@</text>
+    <text x="20" y="66" xml:space="preserve">-=*%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%-&#160;&#160;+@@@@@@@@@@@@@@@@@@@</text>
+    <text x="20" y="78" xml:space="preserve">*%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@@@@@</text>
+    <text x="20" y="90" xml:space="preserve">%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@%&#160;=*+&#160;&#160;+@@@@@@@@@@@</text>
+    <text x="20" y="102" xml:space="preserve">%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*.&#160;:@@@@@@@@@@@@</text>
+    <text x="20" y="114" xml:space="preserve">%%%%@@@@@@@@@@@@%*.&#160;&#160;&#160;.*%@@@@@@@@@@@%%%%@@@@@:&#160;&#160;:@@@@@@@@@@@</text>
+    <text x="20" y="126" xml:space="preserve">%%%@@@@@@@@@@@%.:::::.&#160;&#160;&#160;.%@@@@@@@@#&#160;&#160;&#160;&#160;&#160;=@@@@-&#160;&#160;&#160;@@@@@@@@@@</text>
+    <text x="20" y="138" xml:space="preserve">%%%@@@@@@@@@@*.-=====-:&#160;&#160;&#160;&#160;#@@@@@@@-::::&#160;&#160;.@@@@+&#160;&#160;&#160;=@@@@@@@@</text>
+    <text x="20" y="150" xml:space="preserve">%%@@@@@@@@@@@.-=======-:&#160;&#160;&#160;&#160;@@@@@@@*====-&#160;&#160;=@@@@=&#160;&#160;&#160;+@@@@@@@</text>
+    <text x="20" y="162" xml:space="preserve">%%@@@@@@@@@@@:=========-&#160;&#160;&#160;&#160;@@@@@@@*=====:&#160;.%@@@@:&#160;&#160;&#160;%@@@@@@</text>
+    <text x="20" y="174" xml:space="preserve">%%%@@@@@@@@@@*=========-&#160;&#160;&#160;&#160;@@@@@@@@=====-&#160;&#160;%@@@@%&#160;&#160;&#160;&#160;@@@@@@</text>
+    <text x="20" y="186" xml:space="preserve">%@@@@@@@@@@@@@%=======-&#160;&#160;&#160;&#160;@@@@@@@@@@@===&#160;&#160;-@@@@@@*&#160;&#160;&#160;&#160;@@@@@</text>
+    <text x="20" y="198" xml:space="preserve">%%@@@@@@@@@@@@@@*---&#160;&#160;&#160;&#160;-%@@@@@@@@@@@@%%-.%@@@@@%%@.&#160;&#160;&#160;@@@@@</text>
+    <text x="20" y="210" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;+&#160;&#160;&#160;&#160;&#160;&#160;&#160;=@@@@@@%%%%.&#160;&#160;&#160;@@@@</text>
+    <text x="20" y="222" xml:space="preserve">%%%@@@@@@@@@@@@@@@@@@@+&#160;..:::.&#160;&#160;..::..&#160;&#160;&#160;&#160;&#160;%@@@%%%%@+#:&#160;&#160;-@@</text>
+    <text x="20" y="234" xml:space="preserve">++-%@@@@@@@@@@@@@@@@@+-==-:::::::::::::.&#160;&#160;&#160;:%@%%%%%%++#%&#160;&#160;&#160;+</text>
+    <text x="20" y="246" xml:space="preserve">+++**+%@@@@@@@@@@@@@@=======--=======-::&#160;&#160;&#160;.%%%%%%%%%++*%=&#160;&#160;</text>
+    <text x="20" y="258" xml:space="preserve">=-+++*#*%@@@@@@@@@@@@=================-:&#160;&#160;&#160;:%%%%%%%%%-++*%+&#160;</text>
+    <text x="20" y="270" xml:space="preserve">===-++*#%-%@@@@@@@@@@@:================:&#160;&#160;&#160;%%%%%%%%%#--++*%+</text>
+    <text x="20" y="282" xml:space="preserve">====:+++*@*#@@@@@@@@@@@*:=============-&#160;&#160;&#160;%%%%%%%%%%*-=:++*%</text>
+    <text x="20" y="294" xml:space="preserve">=====-+++*%*#%@@@@@@@@@@@*--========-.&#160;-%%%%%%%%%%%%+-==-++#</text>
+    <text x="20" y="306" xml:space="preserve">=======+++*%*#%%@@@@@@@@@@@%%#+===+*%%%%%%%%%%%%%%%#*-==-+++</text>
+    <text x="20" y="318" xml:space="preserve">========+++#%+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#**-====++</text>
+    <text x="20" y="330" xml:space="preserve">=======-+++*%%.%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%****====-=+</text>
+    <text x="20" y="342" xml:space="preserve">=========+++*%#*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#****+-===-++</text>
+  </g>
+  <g font-size="13" xml:space="preserve">
+    <text x="412" y="53" xml:space="preserve"><tspan fill="#8250df" font-weight="bold">v1-nce@github</tspan><tspan fill="#d0d7de">&#160;------------------------------------------</tspan></text>
+    <text x="412" y="72" xml:space="preserve"><tspan fill="#bc4c00">Host:</tspan><tspan fill="#afb8c1">&#160;.................&#160;</tspan><tspan fill="#0550ae">National University of Singapore</tspan></text>
+    <text x="412" y="91" xml:space="preserve"><tspan fill="#bc4c00">Kernel:</tspan><tspan fill="#afb8c1">&#160;........................&#160;</tspan><tspan fill="#0550ae">B.Comp Computer Science</tspan></text>
+    <text x="412" y="110" xml:space="preserve"><tspan fill="#bc4c00">Editor:</tspan><tspan fill="#afb8c1">&#160;......................&#160;</tspan><tspan fill="#0550ae">VS Code, Antigravity, Vim</tspan></text>
+    <text x="412" y="148" xml:space="preserve"><tspan fill="#bc4c00">Languages:</tspan><tspan fill="#afb8c1">&#160;........&#160;</tspan><tspan fill="#0550ae">Go, Python, TypeScript, Java, SQL, R</tspan></text>
+    <text x="412" y="167" xml:space="preserve"><tspan fill="#bc4c00">Frameworks:</tspan><tspan fill="#afb8c1">&#160;....&#160;</tspan><tspan fill="#0550ae">Next.js, React, Gin, FastAPI, LangGraph</tspan></text>
+    <text x="412" y="186" xml:space="preserve"><tspan fill="#bc4c00">ML:</tspan><tspan fill="#afb8c1">&#160;.................................&#160;</tspan><tspan fill="#0550ae">PyTorch, vLLM, MLX</tspan></text>
+    <text x="412" y="205" xml:space="preserve"><tspan fill="#bc4c00">Infra:</tspan><tspan fill="#afb8c1">&#160;.......................&#160;</tspan><tspan fill="#0550ae">PostgreSQL, Redis, Docker</tspan></text>
+    <text x="412" y="224" xml:space="preserve"><tspan fill="#bc4c00">Cloud:</tspan><tspan fill="#afb8c1">&#160;........................................&#160;</tspan><tspan fill="#0550ae">AWS, GCP</tspan></text>
+    <text x="412" y="262" xml:space="preserve"><tspan fill="#8250df" font-weight="bold">- Contact</tspan><tspan fill="#d0d7de">&#160;----------------------------------------------</tspan></text>
+    <text x="412" y="281" xml:space="preserve"><tspan fill="#bc4c00">Email:</tspan><tspan fill="#afb8c1">&#160;.....................&#160;</tspan><tspan fill="#0550ae">vincentongkaisen6@gmail.com</tspan></text>
+    <text x="412" y="300" xml:space="preserve"><tspan fill="#bc4c00">LinkedIn:</tspan><tspan fill="#afb8c1">&#160;................................&#160;</tspan><tspan fill="#0550ae">in/vincentoks</tspan></text>
+    <text x="412" y="319" xml:space="preserve"><tspan fill="#bc4c00">GitHub:</tspan><tspan fill="#afb8c1">&#160;.........................................&#160;</tspan><tspan fill="#0550ae">v1-nce</tspan></text>
+  </g>
+</svg>
