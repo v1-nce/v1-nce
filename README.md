@@ -9,4 +9,6 @@ Hi im Vincent, I love solving problems and creating useful technology! Aside fro
 
 <p align="center">
   <img alt="meme" src="meme_1.png" width="70%">
+  <br>
+  <img alt="meme" src="meme2.jpeg" width="70%">
 </p>
